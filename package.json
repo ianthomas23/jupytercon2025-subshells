@@ -1,0 +1,16 @@
+{
+  "name": "jupytercon2025-subshells",
+  "version": "1.0.0",
+  "description": "JupyterCon 2025 - Subshells: Bringing Multithreading to Jupyter Kernels",
+  "main": "index.js",
+  "scripts": {
+    "build": "marp index.md -o output/index.html",
+    "pdf": "marp index.md -o subshells.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.2.3"
+  }
+}
