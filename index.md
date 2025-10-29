@@ -162,7 +162,7 @@ mermaid diagram similar to that in https://github.com/ipython/ipykernel/pull/124
 
 Only use subshells if you understand multithreading!
 
-![centre](../images/multithreading_comic.webp)
+![centre](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/multithreading_comic.webp)
 
 ---
 
@@ -244,12 +244,12 @@ Only use subshells if you understand multithreading!
 <div class="columns">
 <div>
 
-![w:450](https://raw.githubusercontent.com/QuantStack/quantstack.github.io/master/static/img/logos/DEShaw.png)
+![w:450](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/DEShaw.png)
 
 </div>
 <div>
 
-![w:450](https://raw.githubusercontent.com/QuantStack/quantstack.github.io/master/static/img/quantstack/logo-website.svg)
+![w:450](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/QuantStack-logo-website.svg)
 
 </div>
 </div>
