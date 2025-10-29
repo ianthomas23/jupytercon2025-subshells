@@ -1,18 +1,25 @@
+# Subshells: Bringing Multithreading to Jupyter Kernels
 
+- JupyterCon 2025
+- 2025-11-04
 
+## Build locally
 
-need node installed
+You need to have `node.js` installed.
 
+To build the HTML slides use
 
 ```bash
 npm install
-npm run build
+npm run html
 ```
 
+which generates `output/index.html`
 
-how to make PDF ???
-
+To generate a PDF file of the slides use
 
 ```bash
 npm run pdf
 ```
+
+which generates `subshells.pdf`.

@@ -4,8 +4,8 @@
   "description": "JupyterCon 2025 - Subshells: Bringing Multithreading to Jupyter Kernels",
   "main": "index.js",
   "scripts": {
-    "build": "marp index.md -o output/index.html",
-    "pdf": "marp index.md -o subshells.pdf"
+    "html": "marp index.md -o output/index.html",
+    "pdf": "marp index.md -o subshells.pdf --allow-local-files"
   },
   "keywords": [],
   "author": "",
