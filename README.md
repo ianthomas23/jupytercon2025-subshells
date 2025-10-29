@@ -3,6 +3,8 @@
 - JupyterCon 2025
 - 2025-11-04
 
+Deployed to github pages at https://ianthomas23.github.io/jupytercon2025-subshells/
+
 ## Build locally
 
 You need to have `node.js` installed.

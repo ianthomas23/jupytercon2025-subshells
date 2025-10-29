@@ -21,13 +21,24 @@ img[alt~="centre"] {
   display: block;
   margin: 0 auto;
 }
+img[alt~="float-right"] {
+  float: right;
+}
 </style>
 
 # Subshells: Bringing Multithreading to Jupyter Kernels
 
+<hr>
+
+![float-right width:350px qr code for slides](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/qr.svg)
+
 ## Ian Thomas, QuantStack
 
-### JupyterCon 2025
+Slides:
+https://ianthomas23.github.io/jupytercon2025-subshells
+
+Github repository:
+https://github.com/ianthomas23/jupytercon2025-subshells
 
 ---
 
@@ -162,7 +173,7 @@ mermaid diagram similar to that in https://github.com/ipython/ipykernel/pull/124
 
 Only use subshells if you understand multithreading!
 
-![centre](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/multithreading_comic.webp)
+![centre cartoon saying multithreading is dangerous](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/multithreading_comic.webp)
 
 ---
 
@@ -225,17 +236,15 @@ Only use subshells if you understand multithreading!
 
 # Resources
 
-- Jupyter Enhancement Proposal 91
-    - [Documentation](https://jupyter.org/enhancement-proposals/91-kernel-subshells/kernel-subshells.html)
-    - [PR with discussion](https://github.com/jupyter/enhancement-proposals/pull/91)
+- [Github repo](https://github.com/ianthomas23/jupytercon2025-subshells) for this presentation, [view slides online](https://ianthomas23.github.io/jupytercon2025-subshells/)
+- Jupyter Enhancement Proposal 91 [documentation](https://jupyter.org/enhancement-proposals/91-kernel-subshells/kernel-subshells.html) and [PR with discussion](https://github.com/jupyter/enhancement-proposals/pull/91)
 - `ipykernel`
     - [Original implementation on top of `anyio`](https://github.com/ipython/ipykernel/pull/1249)
     - [Current implementation of top of `tornado`/`asyncio`](https://github.com/ipython/ipykernel/pull/1396)
 - `jupyterlab`
     - [Support kernel subshells](https://github.com/jupyterlab/jupyterlab/pull/16963)
     - [Comms over subshells](https://github.com/jupyterlab/jupyterlab/pull/17363)
-- `ipympl`
-    - [Use thread lock to support comms via subshells](https://github.com/matplotlib/ipympl/pull/603)
+- `ipympl` [Use thread lock to support comms via subshells](https://github.com/matplotlib/ipympl/pull/603)
 
 ---
 
@@ -244,12 +253,12 @@ Only use subshells if you understand multithreading!
 <div class="columns">
 <div>
 
-![w:450](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/DEShaw.png)
+![w:450 DE Shaw logo](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/DEShaw.png)
 
 </div>
 <div>
 
-![w:450](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/QuantStack-logo-website.svg)
+![w:450 QuantStack logo](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/QuantStack-logo-website.svg)
 
 </div>
 </div>
