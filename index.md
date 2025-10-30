@@ -158,7 +158,7 @@ mermaid diagram similar to that in https://github.com/ipython/ipykernel/pull/124
     - `ipykernel` is the reference implementation.
     - Later releases fix problems, mostly caused by new shell channel thread rather than subshells themselves
 - `jupyterlab >= 4.4.0`
-- For `ipywidgets` support need `jupyterlab >= 4.4.0`
+- For `ipywidgets` support need `jupyterlab >= 4.4.4`
 - For `%matplotlib ipympl` support need `ipympl >= 0.9.8`
 
 ---

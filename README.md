@@ -25,3 +25,15 @@ npm run pdf
 ```
 
 which generates `subshells.pdf`.
+
+## Serve demos locally
+
+Create and activate a `micromamba` (or `pixi` or `conda` etc) environment and run `jupyter lab`:
+
+
+```bash
+micromamba create -f environment.yml
+micromamba activate subshells
+cd notebooks
+jupyter lab
+```

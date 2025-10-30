@@ -1,0 +1,10 @@
+name: subshells
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel >= 7.1.0
+  - ipywidgets
+  - jupyterlab >= 4.4.0
+  - numpy
+  - pillow
+  - python
