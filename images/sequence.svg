@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.965004"
-     inkscape:cx="392.62008"
-     inkscape:cy="211.70441"
-     inkscape:window-width="2232"
-     inkscape:window-height="1311"
-     inkscape:window-x="2056"
+     inkscape:cx="392.62007"
+     inkscape:cy="211.44995"
+     inkscape:window-width="2560"
+     inkscape:window-height="1312"
+     inkscape:window-x="1728"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="graph-div" />
   <defs
      id="defs1">
@@ -166,17 +166,17 @@
      style="fill:#aaccff" />
   <rect
      class="actor actor-top"
-     ry="2.1013217"
-     rx="2.1013217"
+     ry="2.0993927"
+     rx="2.3617458"
      name="shell"
-     height="45.528633"
-     width="117.67401"
+     height="45.486839"
+     width="132.25777"
      stroke="#666666"
      fill="#eaeaea"
-     y="7.0044055"
-     x="488.60571"
+     y="7.0253034"
+     x="480.62662"
      id="rect14"
-     style="stroke-width:0.700441;fill:#aaccff" />
+     style="fill:#aaccff;stroke-width:0.742237" />
   <line
      stroke="#999999"
      stroke-width="0.27939px"
@@ -189,17 +189,17 @@
      style="fill:#aaccff" />
   <rect
      class="actor actor-top"
-     ry="2.1013217"
-     rx="2.1013217"
+     ry="2.0974183"
+     rx="2.6443"
      name="client"
-     height="45.528633"
-     width="105.06608"
+     height="45.444061"
+     width="132.21498"
      stroke="#666666"
      fill="#eaeaea"
-     y="7.0044055"
-     x="179.01102"
+     y="7.0466914"
+     x="167.0533"
      id="rect16"
-     style="stroke-width:0.700441;fill:#aaccff" />
+     style="fill:#aaccff;stroke-width:0.785013" />
   <g
      id="g17"
      transform="matrix(0.70044053,0,0,0.70044053,179.01101,7.0044053)" />
@@ -224,7 +224,7 @@
      id="g20"
      transform="matrix(0.70044053,0,0,0.70044053,179.01101,7.0044053)" />
   <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
      dy="8.4052868"
      class="messageText"
      alignment-baseline="middle"
@@ -245,7 +245,7 @@
      x1="232.24449"
      id="line26" />
   <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
      dy="8.4052868"
      class="messageText"
      alignment-baseline="middle"
@@ -266,7 +266,7 @@
      x1="232.24449"
      id="line31" />
   <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
      dy="8.4052868"
      class="messageText"
      alignment-baseline="middle"
@@ -287,7 +287,7 @@
      x1="543.94055"
      id="line34" />
   <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
      dy="8.4052868"
      class="messageText"
      alignment-baseline="middle"
@@ -307,38 +307,6 @@
      y1="334.75769"
      x1="543.94055"
      id="line39" />
-  <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:central;text-anchor:middle;stroke-width:0.700441"
-     class="actor"
-     alignment-baseline="central"
-     dominant-baseline="central"
-     y="28.854671"
-     x="546.76978"
-     id="text77"><tspan
-       sodipodi:role="line"
-       id="tspan77"
-       x="546.76978"
-       y="28.854671"><tspan
-         x="546.76978"
-         id="tspan74"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441">Main thread</tspan></tspan></text>
-  <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:central;text-anchor:middle;stroke-width:0.700441"
-     class="actor"
-     alignment-baseline="central"
-     dominant-baseline="central"
-     y="29.791304"
-     x="229.66452"
-     id="text79"
-     inkscape:transform-center-x="4.2606484"
-     inkscape:transform-center-y="-1.4202161"><tspan
-       sodipodi:role="line"
-       id="tspan79"
-       x="229.66452"
-       y="29.791304">Client<tspan
-   x="229.66452"
-   id="tspan78"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441" /></tspan></text>
   <g
      id="g1"
      transform="matrix(0.73938021,0,0,0.1244486,2.897075,240.6426)"
@@ -356,76 +324,80 @@
        id="rect1"
        style="fill:#aaccff" />
   </g>
-  <rect
-     class="actor actor-top"
-     ry="2.1013217"
-     rx="2.1013217"
-     name="shell"
-     height="45.528633"
-     width="117.67401"
-     stroke="#666666"
-     fill="#eaeaea"
-     y="371.00439"
-     x="488.60571"
-     id="rect2"
-     style="fill:#aaccff;stroke-width:0.700441" />
-  <rect
-     class="actor actor-top"
-     ry="2.1013217"
-     rx="2.1013217"
-     name="client"
-     height="45.528633"
-     width="105.06608"
-     stroke="#666666"
-     fill="#eaeaea"
-     y="371.00439"
-     x="179.01102"
-     id="rect3"
-     style="fill:#aaccff;stroke-width:0.700441" />
-  <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:central;text-anchor:middle;stroke-width:0.700441"
-     class="actor"
-     alignment-baseline="central"
-     dominant-baseline="central"
-     y="392.85468"
-     x="546.76978"
-     id="text4"><tspan
-       sodipodi:role="line"
-       id="tspan4"
-       x="546.76978"
-       y="392.85468"><tspan
-         x="546.76978"
-         id="tspan3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441">Main thread</tspan></tspan></text>
-  <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:central;text-anchor:middle;stroke-width:0.700441"
-     class="actor"
-     alignment-baseline="central"
-     dominant-baseline="central"
-     y="393.79132"
-     x="229.66452"
-     id="text6"
-     inkscape:transform-center-x="4.2606484"
-     inkscape:transform-center-y="-1.4202161"><tspan
-       sodipodi:role="line"
-       id="tspan6"
-       x="229.66452"
-       y="393.79132">Client<tspan
-   x="229.66452"
-   id="tspan5"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441" /></tspan></text>
   <path
      style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.4;stroke-dasharray:5.5999999,1.39999998;marker-end:url(#Triangle);stroke-dashoffset:0"
      d="m 549.10831,184.22355 c 0,0 104.8344,-10e-6 105.3433,36.13224 0.5089,36.13224 -98.72754,39.69458 -98.72754,39.69458"
      id="path7"
      sodipodi:nodetypes="csc" />
   <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
      class="messageText"
      alignment-baseline="middle"
      dominant-baseline="middle"
      text-anchor="middle"
      y="220.16821"
-     x="688.31354"
+     x="694.31354"
      id="text8">Queued</text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     class="messageText"
+     alignment-baseline="middle"
+     dominant-baseline="middle"
+     text-anchor="middle"
+     y="29.853971"
+     x="546.83795"
+     id="text1">Main thread</text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     class="messageText"
+     alignment-baseline="middle"
+     dominant-baseline="middle"
+     text-anchor="middle"
+     y="30.87178"
+     x="232.33478"
+     id="text2">Client</text>
+  <rect
+     class="actor actor-top"
+     ry="2.0993927"
+     rx="2.3617458"
+     name="shell"
+     height="45.486839"
+     width="132.25777"
+     stroke="#666666"
+     fill="#eaeaea"
+     y="373.0253"
+     x="480.62662"
+     id="rect2"
+     style="fill:#aaccff;stroke-width:0.742237" />
+  <rect
+     class="actor actor-top"
+     ry="2.0974183"
+     rx="2.6443"
+     name="client"
+     height="45.444061"
+     width="132.21498"
+     stroke="#666666"
+     fill="#eaeaea"
+     y="373.04669"
+     x="167.0533"
+     id="rect3"
+     style="fill:#aaccff;stroke-width:0.785013" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     class="messageText"
+     alignment-baseline="middle"
+     dominant-baseline="middle"
+     text-anchor="middle"
+     y="395.85397"
+     x="546.83795"
+     id="text3">Main thread</text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.700441"
+     class="messageText"
+     alignment-baseline="middle"
+     dominant-baseline="middle"
+     text-anchor="middle"
+     y="396.87177"
+     x="232.33478"
+     id="text4">Client</text>
 </svg>

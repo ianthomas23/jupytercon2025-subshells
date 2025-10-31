@@ -103,7 +103,7 @@ Timeline:
 
 ---
 
-# Example communicating with a kernel (recap)
+# Communicating with a kernel (recap)
 
 ![centre Sequence diagram without subshells](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/sequence.svg)
 
@@ -133,15 +133,15 @@ Major difference is new shell channel thread
 
 ---
 
-# Example communicating with a kernel with subshells
+# Communicating with a kernel with subshells 1
 
 ![Sequence diagram with subshells](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/sequence-subshells.svg)
 
 ---
 
-# Example communicating with a kernel with subshells
+# Communicating with a kernel with subshells 2
 
-![Sequence diagram with subshells](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/sequence-subshells2.svg)
+![Sequence diagram with subshells and control thread](https://raw.githubusercontent.com/ianthomas23/jupytercon2025-subshells/main/images/sequence-subshells2.svg)
 
 ---
 
